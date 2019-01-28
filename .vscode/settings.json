@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "/miniconda3/envs/env111/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.mypyEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.banditEnabled": true,
+    "git.ignoreLimitWarning": true
+}
